@@ -7,7 +7,7 @@ import nltk
 
 # Globals
 ACCESS_TOKEN = 'your_key_here'
-IBM = '168597536563870'
+STARBUCKS = '22092443056'
 
 def removeUnicode(text):
         asciiText = ""
@@ -25,7 +25,7 @@ def getPosts():
     get_fields = ['id', 'message', 'created_time', 'caption', 'shares', 'likes.summary(true)', 'comments']
     get_fields = ','.join(get_fields)
     
-    d_posts = fb.get_connections(IBM, 'posts', fields=get_fields)
+    d_posts = fb.get_connections(STARBUCKS, 'posts', fields=get_fields)
     return d_posts['data']
 
 def printPosts():
