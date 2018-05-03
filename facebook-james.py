@@ -2,6 +2,7 @@
 # Author: James Williams
 
 import facebook
+from vaderSentiment.vaderSentiment import sentiment as vaderSentiment
 
 # Globals
 ACCESS_TOKEN = 'your_key_here'
@@ -29,12 +30,46 @@ def getPosts():
 
 def printPosts():
     posts = getPosts();
-    asc_2018 = ""
+    
+    totalSentiment = 0;
+    positivePosts = 0;
+    negativePosts = 0;
     
     for i in range(0, len(posts)):
-        print '\n##############################\n'
-        print "Post ", i+1, " is: ", posts[i]['message'].encode('utf-8')
-        asc_2018 = asc_2018 + removeUnicode(posts[i]['message'])
+        
+        # general information
+        print "Post ", i+1, " is: ", posts[i]['message'].encode('utf-8'), "\n"
         print "Like count is ", posts[i]['likes']['summary']['total_count']
+        
+        # sentiment
+        vs = getSentiment(posts[i]['message'])
+        print "Post Sentiment is ", vs
+        totalSentiment += vs
+        
+        if vs < 0:
+            negativePosts += 1
+        
+        else:
+            positivePosts += 1
+            
+        print '\n##############################\n'
+            
+    print "End of posts"
+    print "Overall Sentiment is ", str((totalSentiment / len(posts)))
+    print "Number of positive posts is ", str(positivePosts)
+    print "Number of negative posts is ", str(negativePosts)
+        
+def getSentiment(text):
+    vs = vaderSentiment(text.encode('utf-8'))
+    return vs['compound']
+
+def collectPosts():
+    posts = getPosts();
+    postsString = ""
+    
+    for i in range(0, len(posts)):
+        postsString += removeUnicode(posts[i]['message'])
+        
+    return postsString
     
 printPosts()
