@@ -3,10 +3,11 @@
 
 import facebook
 from vaderSentiment.vaderSentiment import sentiment as vaderSentiment
+import nltk
 
 # Globals
-ACCESS_TOKEN = 'your_key_here'
-FB_URL = 'https://graph.facebook.com/'
+#ACCESS_TOKEN = 'your_key_here'
+ACCESS_TOKEN = 'EAACEdEose0cBAINuEiLiXMMWHBCzBZCMwFyi3KhNPJLCJbiYCdX3QaTpKm1tioiCu4Yo75ycrW322OerSFAGzIoQoakisWZA4GgQJZANqfTKH5NgbhjyelKdJvPhX06wfxi4W4KflZCjRfz9ecKnIX8WJvEk6x3ZBXmXdxXi8gZC3mZBbPEsIRq7LYj8SS6JdhXEVuhldwPQgZDZD'
 IBM = '168597536563870'
 
 def removeUnicode(text):
@@ -71,5 +72,64 @@ def collectPosts():
         postsString += removeUnicode(posts[i]['message'])
         
     return postsString
+
+def getSkips():
+    return ["and", ",", ".", "to", "the", "for", "in", "of", "that", "a", "on", "is", "get", "you", "has", "as",
+         "at", "are", "", "an", "with", "will", "not", "have", "would", "so", "", "but", ":", "be", "like",
+         "if", "should", "also", "there", "or", "by", "per", "they", "only", "can", "I", "who", "this",
+         "it", "from", "one", "their", "The", "then", "his", "J", "we", "If", "?", "!"]
+
+def tokenizeText(text):
+    words = []
+    tokenizePosts = nltk.tokenize.sent_tokenize(text)
     
-printPosts()
+    for sentence in tokenizePosts:
+        for word in nltk.tokenize.word_tokenize(sentence):
+            words.append(word.lower())
+            
+    return words
+
+def getFrqDist(text):
+    words = tokenizeText(text)
+    mostFreqStr = ""
+    
+    for gmrWord in words:
+        if gmrWord not in getSkips():
+            mostFreqStr += gmrWord
+
+    return nltk.FreqDist(words)
+
+def getMostFreqWords(text):
+    frqDist =  getFrqDist(text)
+    mostFreq = []
+
+    for w in frqDist.items():
+        if w[0] not in getSkips():
+            mostFreq.append(w)
+            
+    mostFreq.sort(key=lambda c: c[1])
+    return mostFreq
+
+def getLexicalDiversity():
+    postsString = collectPosts()
+    
+    frqDist = getFrqDist(postsString)
+    wordCnt = len(tokenizeText(postsString))
+    hapaxNo = len(frqDist.hapaxes())
+
+    print 'Number of Words:'.ljust(25), wordCnt
+    print 'Number of Hapaxes:'.ljust(25), hapaxNo
+    print 'Lexical Diversity is %f' % (1.0 * hapaxNo / wordCnt)
+    
+    print "\nThe most frequent words follow:"
+    
+    for w in getMostFreqWords(postsString)[:-10:-1]:
+        print w[0].encode('utf-8'), "\thas a count of ", w[1]
+
+# just call these two functions
+def main():
+    print "Analysis of posts from IBM's Facebook"
+    printPosts()
+    getLexicalDiversity()
+    
+main()
