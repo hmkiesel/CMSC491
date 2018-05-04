@@ -46,7 +46,7 @@ def findBigrams():
 	bigWords = nltk.tokenize.word_tokenize(asc_2017)
 
 	# number of collocations to find
-	collocations = 30
+	collocations = 25
 
 	# analyzes bigWords for collocations with a searcher
 	search = nltk.BigramCollocationFinder.from_words(bigWords)
@@ -61,11 +61,6 @@ def findBigrams():
 	idxJaccard = BigramAssocMeasures.jaccard
 	bigrams = search.nbest(idxJaccard, collocations)
 
-	print "Set of bigrams (for About Us > Company Information:"
+	print "Set of bigrams (for About Us > Company Information:)"
 	for bigram in bigrams:
 		print str(bigram[0]).encode('utf-8'), " ", str(bigram[1].encode('utf-8'))
-
-def main():
-	findBigrams()
-	
-main()
