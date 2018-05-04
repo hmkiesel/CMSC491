@@ -1,4 +1,10 @@
-#PART OF SPEECH ANALYSIS
+#PART OF SPEECH ANALYSIS - J Do
+
+# WARNING - This may take a while to run because it is unoptimized
+# This POS analyzer finds all the tags in the given 'link', counts them
+# and then prints all the words associated with each tag separated by spaces,
+# counting the number of words for each tag as well. In the end, there is a 
+# Chunk analysis using Russell's algorithm.
 
 from bs4 import BeautifulSoup
 import requests
@@ -36,9 +42,32 @@ sentWords = [nltk.tokenize.word_tokenize(s) for s in lstSent]
 posWords = [nltk.pos_tag(w) for w in sentWords]
 posWords = [token for sent in posWords for token in sent]
 
+#THIS IS THE ORIGINAL PRINTING LOOP - It simply prints the word and the part of speech
+#for (token, pos) in posWords:
+#	print token, pos
+
+#GET ALL TAGS
+partsofspeech = []
 for (token, pos) in posWords:
-	print token, pos
-	
+	if pos not in partsofspeech:
+		partsofspeech.append(pos)
+	#print token, pos
+print partsofspeech
+print "Total # of tags: ",
+print len(partsofspeech)
+
+#PRINT SPECIFIC PARTS OF SPEECH
+for i in partsofspeech:
+	count = 0
+	print "\n[ Part Of Speech tag: " + i + " ]"
+	for (token, pos) in posWords:
+		if i == pos:
+			print token,
+			count += 1
+	print "\n=> [ " + i + " ] count is:", 
+	print count
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	
+
 chunkCollector = []
 foundChunk = []
 
