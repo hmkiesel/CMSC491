@@ -14,7 +14,6 @@ to get the most recent last #number of tweets.
 import twitter
 from vaderSentiment.vaderSentiment import sentiment as vaderSentiment
 
-
 # SET UP YOUR TWITTER CRED.
 CONSUMER_KEY = ""
 CONSUMER_SECRET = ""
@@ -55,12 +54,3 @@ def get_tweets(tw, q = '@Starbucks', count = 25):
         print "\nRetweet count: %d\n" % (status["retweet_count"])
         print "Lexical Diversity: ", 1.0 * len(set(words)) / len(words)
         print "\nSentiment: " + str(vs['compound'])
-    
-def main():
-    auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,CONSUMER_KEY,CONSUMER_SECRET)
-    tw = twitter.Twitter(auth=auth)
-    
-    get_tweets(tw)
-    print "*" * 30 + 'END' + "*" * 30 
-
-main()
