@@ -2,6 +2,12 @@ import facebook_james
 import website_summary
 
 def main():
+    print "Analysis of tweets from Starbucks"
+    auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,CONSUMER_KEY,CONSUMER_SECRET)
+    tw = twitter.Twitter(auth=auth)
+    get_tweets(tw)
+    print "*" * 30 + 'END' + "*" * 30 
+    
     print "Analysis of posts from Starbucks' Facebook"
     facebook_james.printPosts()
     facebook_james.getLexicalDiversity()
