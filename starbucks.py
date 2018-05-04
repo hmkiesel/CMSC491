@@ -31,19 +31,7 @@ def get_summary(url):
     summarizer = Summarizer(stemmer)
     summarizer.stop_words = get_stop_words('English')
 
-    print("\nFive Sentence Summary:\n")
-    for sentence in summarizer(parser.document, 5):
+    print("\nThree Sentence Summary:\n")
+    for sentence in summarizer(parser.document, 3):
         print(sentence)
 
-
-def main():
-    print("\nStarbucks Website: 'about us: company information'")
-    get_summary("https://starbucks.com/about-us/company-information")
-    print("\nStarbucks Blog Article: 'Why clean water is so important for coffee communities'")
-    get_summary("https://starbuckschannel.com/starbucks-reserve-clean-water-project/")
-    print("\nStarbucks Blog Article: 'Equal Pay for Equal Work'")
-    get_summary("https://starbuckschannel.com/starbucks-announces-pay-equity-for-us-partners-sets-global-goal/")
-    
-
-if __name__ == "__main__":
-    main()
