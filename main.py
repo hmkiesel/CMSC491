@@ -1,6 +1,7 @@
 import bigrams
 import facebook_james
 import website_summary
+import pos_analysis
 
 def main():
     print "Analysis of tweets from Starbucks"

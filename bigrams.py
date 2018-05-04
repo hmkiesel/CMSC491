@@ -61,6 +61,6 @@ def findBigrams():
 	idxJaccard = BigramAssocMeasures.jaccard
 	bigrams = search.nbest(idxJaccard, collocations)
 
-	print "Set of bigrams (for About Us > Company Information:)"
+	print "Set of bigrams (for homepage)"
 	for bigram in bigrams:
 		print str(bigram[0]).encode('utf-8'), " ", str(bigram[1].encode('utf-8'))
