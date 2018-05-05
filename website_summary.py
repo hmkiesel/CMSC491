@@ -1,3 +1,14 @@
+'''
+Author: Hannah Kiesel
+In this file, we extract a 3 sentence summary of a webpage. This will be used to create summaries of Starbucks' economic
+platform, as well as blog posts. The function provides a short TLDR summary of the webpage passed in (url).
+I also included a screen scraper function that scrapes the Starbucks 'Company Profile' page, which has numerical information
+about dates, stock values, and number of stores. Screen scraping is usefull for extracting text from a webpage, and in our case,
+it allows us to form a better, concise description of Starbucks from its early beginnings to now. In this screen scraper
+function, I used BeautifulSoup to parse the text and extract several of these important data values (year the comany began,
+total number of stores, etc) from the page, and print out a concise profile description for the company. 
+'''
+
 from __future__ import absolute_import
 from __future__ import division, print_function, unicode_literals
 
@@ -24,7 +35,6 @@ def get_summary(url):
 
 
 def scrape_profile():
-    fileObj = codecs.open("starbucksData.rtf", "w", "UTF")
     html = requests.get("https://www.starbucks.com/about-us/company-information/starbucks-company-profile")
 
     soup = BeautifulSoup(html.text, 'html5lib')
@@ -53,8 +63,6 @@ def scrape_profile():
             line2 = para.text.split('price of ')
             price = line2[1].split(' per share')[0]
 
-        #fileObj.write(para.text)
-        #data = data + para.text
     print("\nScreen Scrape of Starbucks Company Profile:\n")
     print("opening date: %s"%year)
     print("date starbucks went public: %s"%publicdate)
