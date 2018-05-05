@@ -22,4 +22,8 @@ def main():
     website_summary.get_summary("https://starbuckschannel.com/starbucks-announces-pay-equity-for-us-partners-sets-global-goal/")
     website_summary.scrape_profile()
     
+    
+    print("\nPOS Analysis of Starbucks Website\n")
+    pos_analysis.get_pos()
+    
 main()
