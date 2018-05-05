@@ -29,9 +29,9 @@ def get_summary(url):
     summarizer = Summarizer(stemmer)
     summarizer.stop_words = get_stop_words('English')
 
-    print("\nThree Sentence Summary:\n")
+    print "\nThree Sentence Summary:\n"
     for sentence in summarizer(parser.document, 3):
-        print(sentence)
+        print sentence
 
 
 def scrape_profile():
@@ -63,9 +63,9 @@ def scrape_profile():
             line2 = para.text.split('price of ')
             price = line2[1].split(' per share')[0]
 
-    print("\nScreen Scrape of Starbucks Company Profile:\n")
-    print("opening date: %s"%year)
-    print("date starbucks went public: %s"%publicdate)
-    print("shares starting price: %s"%price)
-    print("current number of coffee blends: %s"%coffees)
-    print("current total # stores: %s"%stores)
+    print "\nScreen Scrape of Starbucks Company Profile:\n"
+    print "opening date: %s"%year
+    print "date starbucks went public: %s"%publicdate
+    print "shares starting price: %s"%price
+    print "current number of coffee blends: %s"%coffees
+    print "current total # stores: %s"%stores
