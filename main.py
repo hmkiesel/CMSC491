@@ -20,5 +20,6 @@ def main():
     website_summary.get_summary("https://starbucks.com/about-us/company-information")
     print("\nStarbucks Blog Article: 'Equal Pay for Equal Work'")
     website_summary.get_summary("https://starbuckschannel.com/starbucks-announces-pay-equity-for-us-partners-sets-global-goal/")
+    website_summary.scrape_profile()
     
 main()
