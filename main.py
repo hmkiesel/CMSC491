@@ -23,7 +23,11 @@ def main():
     website_summary.scrape_profile()
     
     
-    print("\nPOS Analysis of Starbucks Website\n")
+    print("\nPOS Analysis of Starbucks Website 'about-us' page\n")
     pos_analysis.get_pos()
+    
+    
+    print("\nFind Bigrams on Starbucks Website 'about-us' page\n")
+    bigrams.findBigrams()
     
 main()
