@@ -29,6 +29,8 @@ def removeUnicode(text):
     return asciiText
 
 def get_tweets(tw, q = '@Starbucks', count = 25):
+    auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,CONSUMER_KEY,CONSUMER_SECRET)
+    tw = twitter.Twitter(auth=auth)
     print "==============================" * 2
     print "\n\t" + '\033[95m' +  str(count) + " Tweets with " + q + '\033[0m' + "\n"
     print "==============================" * 2
