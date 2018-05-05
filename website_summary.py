@@ -2,11 +2,11 @@
 Author: Hannah Kiesel
 In this file, we extract a 3 sentence summary of a webpage. This will be used to create summaries of Starbucks' economic
 platform, as well as blog posts. The function provides a short TLDR summary of the webpage passed in (url).
-I also included a screen scraper function that scrapes the Starbucks 'Company Profile' page, which has numerical information
-about dates, stock values, and number of stores. Screen scraping is usefull for extracting text from a webpage, and in our case,
-it allows us to form a better, concise description of Starbucks from its early beginnings to now. In this screen scraper
-function, I used BeautifulSoup to parse the text and extract several of these important data values (year the comany began,
-total number of stores, etc) from the page, and print out a concise profile description for the company. 
+I also included a screen scraper function that scrapes the Starbucks 'Company Profile' page, which includes numerical
+information about dates, stock values, and number of stores. Screen scraping is useful for extracting text from a webpage,
+and in our case, it allows us to form a better, concise description of Starbucks from its early beginnings to now. In this
+screen scraper function, I used BeautifulSoup to parse the text and extract several of these important data values (year the
+comany began, total number of stores, etc) from the page, and print out a concise profile description for the company. 
 '''
 
 from __future__ import absolute_import
