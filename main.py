@@ -27,7 +27,7 @@ def main():
     pos_analysis.get_pos()
     print "*" * 30 + 'END' + "*" * 30
     
-    print "\nFind Bigrams on Starbucks Website 'about-us' page\n"
+    print "\nFind Bigrams on Starbucks homepage\n"
     bigrams.findBigrams()
     print "*" * 30 + 'END' + "*" * 30
     
