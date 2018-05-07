@@ -52,7 +52,7 @@ def scrape_profile():
     for para in all_paras:
         if 'began in' in para.text:
             line = para.text.split('began in ')
-            year = line[1][0:3]
+            year = line[1][0:4]
         if 'Total stores' in para.text:
             line = para.text.split('Total stores: ')
             stores = line[1].split('*')[0]
