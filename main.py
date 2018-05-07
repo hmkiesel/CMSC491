@@ -6,7 +6,7 @@ import pos_analysis
 
 def main():
     print "Analysis of tweets from Starbucks\n"
-    get_tweets("#Starbucks", 25)
+    twitter_hemang.get_tweets("#Starbucks", 25)
     print "*" * 30 + 'END' + "*" * 30 
     
     print "Analysis of posts from Starbucks' Facebook"

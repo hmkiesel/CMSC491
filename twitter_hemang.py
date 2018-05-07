@@ -29,7 +29,7 @@ def removeUnicode(text):
             asciiText = asciiText + char
     return asciiText
 
-def get_tweets(q = '#starbucks', count = 25):
+def get_tweets(q, count):
     auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,CONSUMER_KEY,CONSUMER_SECRET)
     tw = twitter.Twitter(auth=auth)
     

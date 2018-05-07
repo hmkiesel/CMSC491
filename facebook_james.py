@@ -6,7 +6,7 @@ from vaderSentiment.vaderSentiment import sentiment as vaderSentiment
 import nltk
 
 # Globals
-ACCESS_TOKEN = 'your_key_here'
+ACCESS_TOKEN = ''
 STARBUCKS = '22092443056'
 
 def removeUnicode(text):
