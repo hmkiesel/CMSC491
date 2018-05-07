@@ -1,4 +1,6 @@
 """
+Author: Emily Yu
+
 Bigrams are collocated words taken 2 at a time;
 they're useful and effective for finding words
 that should be considered as a unit. Since the
