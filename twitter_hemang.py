@@ -29,7 +29,9 @@ def removeUnicode(text):
             asciiText = asciiText + char
     return asciiText
 
-def get_tweets(tw, q = '#starbucks', count = 25):
+def get_tweets(q = '#starbucks', count = 25):
+    auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,CONSUMER_KEY,CONSUMER_SECRET)
+    tw = twitter.Twitter(auth=auth)
     print "==============================" * 2
     print "\n\t" + '\033[95m' +  str(count) + " Tweets with " + q + '\033[0m' + "\n"
     print "==============================" * 2
@@ -76,14 +78,3 @@ def get_tweets(tw, q = '#starbucks', count = 25):
 
     lexical_diversity = 1.0 * len(set(words)) / len(words)
     print "\nOverall lexical diversity: ", lexical_diversity
-
-
-
-def main():
-    auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,CONSUMER_KEY,CONSUMER_SECRET)
-    tw = twitter.Twitter(auth=auth)
-    
-    get_tweets(tw)
-    print "*" * 30 + 'END' + "*" * 30 
-
-main()
