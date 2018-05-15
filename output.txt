@@ -1,0 +1,696 @@
+Analysis of tweets from Starbucks
+
+============================================================
+
+	25 Tweets with #Starbucks
+
+============================================================
+
+==========Tweet # 1==========
+
+#Nestle's $7.15bn deal to sell #Starbucks #coffee  is all about gaining share in the lucrative #NorthAmerica mark https://t.co/pgsZUfyBof
+
+Retweet count: 0
+
+Lexical Diversity:  1.0
+
+Sentiment: 0.6124
+
+==========Tweet # 2==========
+
+RT @Blavity: #Starbucks to give the two men arrested full-ride scholarships to college... They better had  https://t.co/7jAA9VRKbc https:/
+
+Retweet count: 9
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: -0.0516
+
+==========Tweet # 3==========
+
+RT @Blavity: #Starbucks to give the two men arrested full-ride scholarships to college... They better had  https://t.co/7jAA9VRKbc https:/
+
+Retweet count: 9
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: -0.0516
+
+==========Tweet # 4==========
+
+RT @Blavity: #Starbucks to give the two men arrested full-ride scholarships to college... They better had  https://t.co/7jAA9VRKbc https:/
+
+Retweet count: 9
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: -0.0516
+
+==========Tweet # 5==========
+
+RT @Blavity: #Starbucks to give the two men arrested full-ride scholarships to college... They better had  https://t.co/7jAA9VRKbc https:/
+
+Retweet count: 9
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: -0.0516
+
+==========Tweet # 6==========
+
+Nestle and Starbucks to partner? The story on social via https://t.co/FDkDuATYD3. #Nestle #Starbucks #Business https://t.co/FzEWoLhuWZ
+
+Retweet count: 0
+
+Lexical Diversity:  1.0
+
+Sentiment: 0.0
+
+==========Tweet # 7==========
+
+Nestle and Starbucks joining forces? The story on social via https://t.co/WFddVErHXa. #Nestle #Starbucks #Business https://t.co/gTzahh3x9T
+
+Retweet count: 0
+
+Lexical Diversity:  1.0
+
+Sentiment: 0.0
+
+==========Tweet # 8==========
+
+Check out Starbucks 2012 New Bone China Porcelaine Anglaise Neuve Cup No Handle New #Starbucks https://t.co/RvoKX7hI44 via @eBay
+
+Retweet count: 0
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: -0.296
+
+==========Tweet # 9==========
+
+RT @Blavity: #Starbucks to give the two men arrested full-ride scholarships to college... They better had  https://t.co/7jAA9VRKbc https:/
+
+Retweet count: 9
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: -0.0516
+
+==========Tweet # 10==========
+
+RT @Blavity: #Starbucks to give the two men arrested full-ride scholarships to college... They better had  https://t.co/7jAA9VRKbc https:/
+
+Retweet count: 9
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: -0.0516
+
+==========Tweet # 11==========
+
+RT @Blavity: #Starbucks to give the two men arrested full-ride scholarships to college... They better had  https://t.co/7jAA9VRKbc https:/
+
+Retweet count: 9
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: -0.0516
+
+==========Tweet # 12==========
+
+RT @Blavity: #Starbucks to give the two men arrested full-ride scholarships to college... They better had  https://t.co/7jAA9VRKbc https:/
+
+Retweet count: 9
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: -0.0516
+
+==========Tweet # 13==========
+
+#starbucks #coldbrew missed my fix @ Starbucks https://t.co/Cxm47hPTDY
+
+Retweet count: 0
+
+Lexical Diversity:  1.0
+
+Sentiment: -0.296
+
+==========Tweet # 14==========
+
+RT @Blavity: #Starbucks to give the two men arrested full-ride scholarships to college... They better had  https://t.co/7jAA9VRKbc https:/
+
+Retweet count: 9
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: -0.0516
+
+==========Tweet # 15==========
+
+@Nestle Youve overpaid for the #Starbucks privilege. The @hewlettpacka_dp purchase of @Autonomy_UK comes to mind, https://t.co/bol3K4xa4X
+
+Retweet count: 0
+
+Lexical Diversity:  1.0
+
+Sentiment: 0.3612
+
+==========Tweet # 16==========
+
+Time to say goodbye #Starbucks. #BoycottNestle #WaterIsLife https://t.co/LsvIGUYzpx
+
+Retweet count: 0
+
+Lexical Diversity:  1.0
+
+Sentiment: 0.0
+
+==========Tweet # 17==========
+
+#Starbucks to give the two men arrested full-ride scholarships to college... They better had  https://t.co/1sqUYWkJu0
+
+Retweet count: 9
+
+Lexical Diversity:  0.933333333333
+
+Sentiment: -0.0516
+
+==========Tweet # 18==========
+
+Want to work at @Starbucks? @PCRSemployment is hosting a Starbucks Hiring Extravaganza today at their Surrey locati https://t.co/mRl1eXDxR6
+
+Retweet count: 0
+
+Lexical Diversity:  0.944444444444
+
+Sentiment: 0.0772
+
+==========Tweet # 19==========
+
+Nope... Brother it's  the people that drink #Starbucks  @Starbucks https://t.co/oBNhdJ6bcA
+
+Retweet count: 0
+
+Lexical Diversity:  1.0
+
+Sentiment: 0.0
+
+==========Tweet # 20==========
+
+#Nestle is paying more than $7 billion to buy the rights to sell  #Starbucks coffee and tea in supermarkets and oth https://t.co/0ePWKkuKGC
+
+Retweet count: 0
+
+Lexical Diversity:  0.909090909091
+
+Sentiment: 0.0
+
+==========Tweet # 21==========
+
+Did you know that Coffee is the second most traded commodity on earth?! 
+
+#Coffee #Coffeetime #Coffeeaddict https://t.co/FZ7s82pSRO
+
+Retweet count: 0
+
+Lexical Diversity:  1.0
+
+Sentiment: 0.0
+
+==========Tweet # 22==========
+
+Wooohoo I love the new menu at @SbuxIndonesia NUTELLA Bombolone  melting Nutella meet the warm bun really made my https://t.co/jZGvhZaP1H
+
+Retweet count: 0
+
+Lexical Diversity:  0.95
+
+Sentiment: 0.7269
+
+==========Tweet # 23==========
+
+How will George Clooney feel about this?#Nestle#Starbucks https://t.co/LoobicH3aK
+
+Retweet count: 0
+
+Lexical Diversity:  1.0
+
+Sentiment: 0.0
+
+==========Tweet # 24==========
+
+$SBUX #Starbucks Corp. Starbucks/Nestle Partnership Unlocks CPG Growth Potential While Augmenting Shareholder Retur https://t.co/WY5STBVNYq
+
+Retweet count: 0
+
+Lexical Diversity:  1.0
+
+Sentiment: 0.3818
+
+==========Tweet # 25==========
+
+RT @jamlamlaser: Nestle bought #starbucks. If you wanted ANY MORE REASON to say fuck Starbucks there it is. Stolen water from native lands
+
+Retweet count: 3
+
+Lexical Diversity:  1.0
+
+Sentiment: -0.7717
+============================================================
+
+Report over 25 tweets: 
+
+Total number of retweets: 93
+
+Negative tweets: 13
+
+Positive tweets: 5
+
+Overall sentiment: 0.011192
+
+Overall lexical diversity:  0.46683046683
+******************************END******************************
+Analysis of posts from Starbucks' Facebook
+Post  1  is:  Cold as ice. More velvety than velvet. Introducing a new way to cold brew: Cold Foam Cascara Cold Brew 
+
+Like count is  1721
+Post Sentiment is  0.0
+
+##############################
+
+Post  2  is:  Afternoons, made to order. 
+
+Like count is  4308
+Post Sentiment is  0.0
+
+##############################
+
+Post  3  is:  Creamy, dreamy, layer…y. Introducing the Ultra Caramel Frappuccino! 
+
+Like count is  14847
+Post Sentiment is  0.0
+
+##############################
+
+Post  4  is:  On May 29th, we will close our company-owned stores in the US to conduct racial-bias training in order to address implicit bias, promote conscious inclusion, and prevent discrimination so everyone feels safe and welcome at Starbucks.
+ 
+The curriculum will be developed with guidance from national and local experts, including Bryan Stevenson, founder and executive director of the Equal Justice Initiative; Sherrilyn Ifill, president and director-counsel of the NAACP Legal Defense Fund; Heather McGhee, president of Demos; former U.S. Attorney General Eric Holder; and Jonathan Greenblatt, ceo of ADL - Anti-Defamation League. The training will impact nearly 175,000 partners (employees) across the country, and will become core to the orientation process for new partners. These experts will hold us accountable by monitoring and reviewing the effectiveness of the measures we undertake.
+ 
+We’re ashamed and recognize that racial bias is a problem we need to–and will–address. https://sbux.co/2HICFOP 
+
+Like count is  101370
+Post Sentiment is  0.7693
+
+##############################
+
+Post  5  is:  What we did was wrong. We hold ourselves accountable to making it right. From unconscious bias training, to reviews of our policies, you can and should expect more from us. 
+
+Like count is  5763
+Post Sentiment is  -0.5423
+
+##############################
+
+Post  6  is:  "This is not who we are, and it's not who we're going to be." 
+
+Like count is  41974
+Post Sentiment is  0.0
+
+##############################
+
+Post  7  is:  We regret that our practices and training led to the reprehensible outcome at our Philadelphia store. We’re taking immediate action to learn from this and be better. A statement from ceo Kevin Johnson: 
+
+Like count is  7579
+Post Sentiment is  0.0258
+
+##############################
+
+Post  8  is:  The gravy-tational pull of the warm, honey buttered Chicken Sausage & Bacon Biscuit. 🌜⭐️ 
+
+Like count is  1287
+Post Sentiment is  0.2263
+
+##############################
+
+Post  9  is:  We're proud to announce we've achieved 100% pay equity for all US partners (employees)—but the work isn't done. We're committed to making this true globally. 💚 #EqualPayDay 
+
+Like count is  44569
+Post Sentiment is  0.6293
+
+##############################
+
+Post  10  is:  This Macchiato Monday, we're loving the Iced Cinnamon Almondmilk Macchiato with an extra shot of espresso. A little less sweet. A little more coffee. Tell us what you think! 
+
+Like count is  1331
+Post Sentiment is  0.7664
+
+##############################
+
+Post  11  is:  Our protagonist finds himself confronted with the aroma of melty-aged-Gouda and applewood-smoked bacon.
+
+ACTION! 🎭 
+
+Like count is  397
+Post Sentiment is  -0.2714
+
+##############################
+
+Post  12  is:  Waking up with an extra shot of spring. 
+🌈Grande Iced Starbucks Blonde Quad Americano 🌈 
+
+Like count is  9266
+Post Sentiment is  0.0
+
+##############################
+
+Post  13  is:  Natasha—thank you for your bravery, compassion and action. 💚 
+
+Like count is  7340
+Post Sentiment is  0.7351
+
+##############################
+
+Post  14  is:  Celebrating Macchiato Monday with the Upside Down Iced Caramel Macchiato 🎉 If you have an inspired customization, let us know! 
+
+Like count is  1739
+Post Sentiment is  0.8016
+
+##############################
+
+Post  15  is:  This Macchiato Monday, try it iced! 
+
+The Iced Hazelnut Mocha Coconutmilk Macchiato: a blissful balance of coconutmilk, Signature Espresso, hazelnut syrup and mocha drizzle 😋 
+
+Like count is  3470
+Post Sentiment is  0.636
+
+##############################
+
+Post  16  is:  The sparkles know all. 
+🔮 New Crystal Ball Frappuccino—available while the magic lasts. 🔮 
+
+Like count is  47646
+Post Sentiment is  0.3182
+
+##############################
+
+Post  17  is:  Spring Coffee Days are here! 💐☕️Wherever you are on your coffee journey, we're here to answer your questions and help you brew a great cup at home. Ask away! 
+
+Like count is  1837
+Post Sentiment is  0.8118
+
+##############################
+
+Post  18  is:  It's Macchiato Monday! 🎉
+
+Try adding an extra shot of espresso to the warm, caramel-y, vanilla goodness that is the Caramel Macchiato. 
+
+Like count is  1477
+Post Sentiment is  0.636
+
+##############################
+
+Post  19  is:  ☕️New flavor 
+👖New threads 
+🙌New day
+
+Vanilla & Fig Cold Brew 
+
+Like count is  542
+Post Sentiment is  0.0
+
+##############################
+
+Post  20  is:  Singin' it from the mountaintops 🎶 Applewood-smoked bacon and aged Gruyère Sous Vide Egg Bites. 
+
+Like count is  17329
+Post Sentiment is  0.0
+
+##############################
+
+Post  21  is:  This Macchiato Monday, we raise our cups to the sublime yum that occurs when bold espresso meets creamy almondmilk & sweet cinnamon dolce. We love you, Iced Cinnamon Almondmilk Macchiato.❤️ 
+
+Like count is  2499
+Post Sentiment is  0.8689
+
+##############################
+
+Post  22  is:  Daylight-saving, espresso-craving. 
+Good morning, Grande Iced Starbucks Blonde Quad Americano. 
+
+Like count is  4390
+Post Sentiment is  0.4404
+
+##############################
+
+Post  23  is:  Grab now. Snack later. 💪 Eggs & Cheese Protein Box 💪 
+
+Like count is  953
+Post Sentiment is  0.0
+
+##############################
+
+Post  24  is:  Every Monday, what's in store?
+A look at a favorite that we adore.❤️
+
+First up: the new Hazelnut Mocha Coconutmilk Macchiato—a dreamy swirl of steamed Sumatran coconutmilk & Signature Espresso, topped with a mocha drizzle. 
+
+Like count is  3084
+Post Sentiment is  0.4588
+
+##############################
+
+Post  25  is:  Cappuccino: roasty & bold.❤️
+Cappuccino with Starbucks Blonde Espresso: smooth & subtly sweet.💛 
+
+Like count is  548
+Post Sentiment is  0.0
+
+##############################
+
+End of posts
+Overall Sentiment is  0.292408
+Number of positive posts is  23
+Number of negative posts is  2
+Number of Words:          679
+Number of Hapaxes:        244
+Lexical Diversity is 0.359352
+
+The most frequent words follow:
+macchiato 	has a count of  8
+& 	has a count of  7
+iced 	has a count of  7
+monday 	has a count of  6
+us 	has a count of  6
+new 	has a count of  6
+espresso 	has a count of  6
+our 	has a count of  6
+'re 	has a count of  5
+******************************END******************************
+
+Starbucks.com Economic Platform: 'Q2 Fiscal 2018 Results'
+
+Three Sentence Summary:
+
+“We have a clear set of actions underway to improve profitability
+through a combination of comp and beverage growth and savings across
+COGS, waste and labor as we move through the back half of the year,”
+said Scott Maw, cfo.
+Operating margin expanded 100 basis points to 43.0%, primarily
+driven by lapping a revenue deduction adjustment, partially offset by
+lower income from our North American Coffee Partnership joint venture.
+The company reiterates the following full year FY18 targets but notes
+that all guidance items exclude the yet to be determined impact of its
+previously announced plan to close more than 8,000 company-owned stores
+in the U.S. on May 29, 2018 to conduct racial-bias training for all
+partners (employees) in the U.S.
+
+Starbucks.com: 'about us: company information'
+
+Three Sentence Summary:
+
+Every day, we go to work hoping to do two things: share great coffee with our friends and help make the world a little better.
+The name, inspired by Moby Dick , evoked the romance of the high seas and the seafaring tradition of the early coffee traders.
+We make sure everything we do is through the lens of humanity – from our commitment to the highest quality coffee in the world, to the way we engage with our customers and communities to do business responsibly.
+
+Starbucks Blog Article: 'Equal Pay for Equal Work'
+
+Three Sentence Summary:
+
+Helm, who discussed the announcement on stage at the Starbucks 2018 Annual Meeting of Shareholders on March 21 in Seattle, said the company will now work "with deliberate speed" toward closing the gender pay gap for all partners in company-operated markets worldwide.
+"The UN Foundation looks forward to engaging with Starbucks and other leaders – in the private and public sectors – to change policies, expectations and the status quo to reward the contributions of women and men equally.
+During this time, the company has created a host of tools and best practices for preventing disparities – such as a calculator to objectively determine target starting pay ranges based on a candidate’s experience.
+
+Screen Scrape of Starbucks Company Profile:
+
+opening date: 197
+date starbucks went public: June 26, 1992
+shares starting price: $17
+current number of coffee blends: 30
+current total # stores: 22,519
+******************************END******************************
+
+POS Analysis of Starbucks Website 'about-us' page
+
+Part Of Speech Tags for https://starbucks.com/about-us/company-information :
+['PRP$', 'NNP', 'TO', 'IN', '.', 'VBG', 'JJ', ',', 'RB', 'CC', 'DT', 'NN', 'RBR', 'VBP', 'VBN', 'NNS', 'JJS', 'CD', 'VBZ', 'VB', 'PRP', 'JJR', ':', 'WP', 'WRB', 'RP', '(', ')', 'VBD', 'NNPS', 'WDT', '``', "''"]
+Total # of tags:  33
+
+[ Part Of Speech tag: PRP$ ]
+Our your our your our Your their your our its his his its our our Our our our our 
+=> [ PRP$ ] count is: 19
+
+[ Part Of Speech tag: NNP ]
+CoffeesFind Your Perfect CoffeeStarbucks Reserve CoffeesEspresso BeveragesHow Brew Great CoffeeEthical SourcingLearn MoreCold Brew CoffeeStarbucks ChannelLooking Coffee Beverages Starbucks Blonde Espressoseriously smooth TeasBliss OutTeavana TM/MC Shaken Iced Tea Infusions DrinksFoodNutritionLearn MoreBest Sous Vide Egg Bites.Breakfast Starbucks MobileOnline CommunityStore DesignLearn MoreLooking App Android.Details CommunityEthical SourcingEnvironmentGlobal Responsibility Report Goals ProgressLearn MoreLooking Starbucks Information Starbucks RewardsMore RewardsEarn Stars Starbucks Rewards Visa Card.Learn Starbucks ChannelThe Starbucks ChannelA Buy CardManage CardMake Starbucks Starbucks Seattles Pike Place Market Starbucks Moby Dick Howard Schultz Starbucks Starbucks Sumatra Howard Starbucks Howard Italy United Starbucks Il Giornale August Starbucks Starbucks Starbucks Profile A Awards Starbucks Worlds Most Ethical Ethisphere Institute Starbucks Newsroom Newsroom Learn Goals ProgressBy GET STARTED Starbucks Privacy Statement Customer Service Starbucks Corporation 
+=> [ NNP ] count is: 115
+
+[ Part Of Speech tag: TO ]
+to To to to to to to to to to to to to to to to to to to to 
+=> [ TO ] count is: 20
+
+[ Part Of Speech tag: IN ]
+for in with with for by for for with OriginalsAbout for about while for of with in as in From of by of of into From of into with of for of between for of in with of investors.From of that of at of that with of in for of about than through of from in with at from For in as of by through about from 
+=> [ IN ] count is: 67
+
+[ Part Of Speech tag: . ]
+? . ? ? . . . . . . . . . . . . . . . . . . . . . . 
+=> [ . ] count is: 26
+
+[ Part Of Speech tag: VBG ]
+Introducing Something using picking hoping seafaring rewarding coming clicking 
+=> [ VBG ] count is: 9
+
+[ Part Of Speech tag: JJ ]
+new sweet available favorite Handcrafted botanical ready complete irresistible flavorful protein-rich military original Youll thoughtful high-quality whole true whole great little true first true single narrow fresh-roasted whole high early chief executive first first Italian Italian third short own local different celebrated rich connection.Our human time.Were passionate full premium fine other delectable unusual daily sure us.Timeline 
+=> [ JJ ] count is: 56
+
+[ Part Of Speech tag: , ]
+, , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+=> [ , ] count is: 29
+
+[ Part Of Speech tag: RB ]
+subtly freshly Else ahead then together everywhere very hardly just then just back not only also not just else also not even so much 
+=> [ RB ] count is: 24
+
+[ Part Of Speech tag: CC ]
+and and and and & and and or and but and and and and and and and and and and and but and and but and and And and or and and and and and & and and 
+=> [ CC ] count is: 38
+
+[ Part Of Speech tag: DT ]
+all the all a a every the all a a any an the the the a the the a a some the The the the the the a a the the a the the A a A a the the a the a the a a a the the a a the the the the the the a the the the the All 
+=> [ DT ] count is: 63
+
+[ Part Of Speech tag: NN ]
+espresso drinks.Learn fruit teas.see morningThe cold brew breakfast menu coffee snack dayall iPhone day.Watch place inspiring community innovation dayPick gift card coffee eGift bean essence story.Every day share coffee world today.Back company store storefront bean name romance tradition coffee traders.In chairman officer store cup year later.In coffee romance coffee experience vision coffeehouse tradition place conversation sense community place work home period time help beginning kind company coffee tradition feeling mission spirit person cup neighborhood coffee everything coffeehouse experience selection taste buds music store artistry appeal.Its work neighborhood gathering place part routine see everything humanity commitment quality coffee world way business look history on.Recognition year row discussion news information 
+=> [ NN ] count is: 108
+
+[ Part Of Speech tag: RBR ]
+more closer more 
+=> [ RBR ] count is: 3
+
+[ Part Of Speech tag: VBP ]
+combine grab work shop coffee.Learn find occasion.Send do go historic offer hear couldnt are brew.We do engage 've agree 
+=> [ VBP ] count is: 19
+
+[ Part Of Speech tag: VBN ]
+steeped opened inspired walked drawn captivated returned chosen received been recognized Read reserved 
+=> [ VBN ] count is: 13
+
+[ Part Of Speech tag: NNS ]
+blends Starbucks veterans spouses civilians stories things sentiments purchases roasts coffees things friends worlds coffees seas bars coffeehouses purveyors teas pastries treats people lens customers communities honors Companies promotions rights 
+=> [ NNS ] count is: 30
+
+[ Part Of Speech tag: JJS ]
+finest finest highest 
+=> [ JJS ] count is: 3
+
+[ Part Of Speech tag: CD ]
+three two two 1971 1981 1983 1987 One one one one 1971 12th one 2016 2018 
+=> [ CD ] count is: 16
+
+[ Part Of Speech tag: VBZ ]
+is happens is Thats tells goes is is has offers 
+=> [ VBZ ] count is: 10
+
+[ Part Of Speech tag: VB ]
+Make enjoy See say work do help make bring start purchase be inspire nurture please see chat meet be Get know youll make do responsibly.Company join Visit receive See 
+=> [ VB ] count is: 29
+
+[ Part Of Speech tag: PRP ]
+it you we it we It He He We you we it us we we we we we I 
+=> [ PRP ] count is: 19
+
+[ Part Of Speech tag: JJR ]
+Order More More better happier more 
+=> [ JJR ] count is: 6
+
+[ Part Of Speech tag: : ]
+... ... : : 
+=> [ : ] count is: 4
+
+[ Part Of Speech tag: WP ]
+what what what 
+=> [ WP ] count is: 3
+
+[ Part Of Speech tag: WRB ]
+when when Were 
+=> [ WRB ] count is: 3
+
+[ Part Of Speech tag: RP ]
+up up out up 
+=> [ RP ] count is: 4
+
+[ Part Of Speech tag: ( ]
+( ( 
+=> [ ( ] count is: 2
+
+[ Part Of Speech tag: ) ]
+) ) 
+=> [ ) ] count is: 2
+
+[ Part Of Speech tag: VBD ]
+was was offered evoked had was joined traveled became had left set brought 
+=> [ VBD ] count is: 13
+
+[ Part Of Speech tag: NNPS ]
+States 
+=> [ NNPS ] count is: 1
+
+[ Part Of Speech tag: WDT ]
+that 
+=> [ WDT ] count is: 1
+
+[ Part Of Speech tag: `` ]
+`` 
+=> [ `` ] count is: 1
+
+[ Part Of Speech tag: '' ]
+'' 
+=> [ '' ] count is: 1
+
+Count Frequency for each Chunk using Russell's Algorithm:
+	Howard (2)
+	States (1)
+	Starbucks (8)
+	Italy (1)
+	United (1)
+	Buy (1)
+	Companies (1)
+	Goals (1)
+	Sumatra (1)
+	Awards (1)
+	Starbucks (2)
+	Starbucks (3)
+	August (1)
+	App (1)
+	Seattles (1)
+******************************END******************************
+
+Find Bigrams on Starbucks Website 'about-us' page
+
+Set of bigrams (for homepage)
+Rewards   Visa
+Stars   everywhere
+Starbucks   Rewards
+new   Starbucks
+******************************END******************************
